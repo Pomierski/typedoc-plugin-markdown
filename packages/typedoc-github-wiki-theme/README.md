@@ -1,4 +1,4 @@
-# typedoc-github-wiki-theme
+# typedoc-github-wiki-theme test
 
 A [Github Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) compatible [TypeDoc](https://github.com/TypeStrong/typedoc) theme.
 
