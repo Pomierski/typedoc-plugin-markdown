@@ -70,7 +70,7 @@ export class MarkdownTheme extends Theme {
     this.publicPath = this.getOption('publicPath') as string;
     this.preserveAnchorCasing = this.getOption(
       'preserveAnchorCasing',
-    ) as boolean;
+    ) as any;
     this.objectLiteralTypeDeclarationStyle = this.getOption(
       'objectLiteralTypeDeclarationStyle',
     ) as ObjectLiteralDeclarationStyle;
